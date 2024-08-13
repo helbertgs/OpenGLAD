@@ -1,0 +1,6 @@
+module OpenGLAD [system] {
+    header "gl.h"
+    header "khrplatform.h"
+
+    export *
+}
