@@ -1,5 +1,7 @@
 # OpenGLAD
 
+![License](https://img.shields.io/badge/License-MIT-green) ![Swift](https://img.shields.io/badge/Swift-6.0%20%7C%206.1%20%7C%206.2%20%7C%206.3-orange.svg) ![Platforms](https://img.shields.io/badge/Platforms-macOS%20%7C%20Linux%20%7C%20Windows-blue) [![CI](https://github.com/helbertgs/OpenGLAD/actions/workflows/ci.yml/badge.svg)](https://github.com/helbertgs/OpenGLAD/actions/workflows/ci.yml)
+
 OpenGLAD is a cross-platform Swift Package that wraps [GLAD 2](https://github.com/dav1dde/glad), the `OpenGL` function loader, providing `C/Swift` interoperability through a `Clang` module map.
 
 It is designed to be used in conjunction with an external `OpenGL` context manager such as [OpenGLFW](https://github.com/helbertgs/OpenGLFW).
