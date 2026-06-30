@@ -6,22 +6,17 @@ import PackageDescription
 let package = Package(
     name: "OpenGLAD",
     products: [
-        // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
             name: "OpenGLAD",
             targets: ["OpenGLAD"]
         ),
     ],
     targets: [
-        // Targets are the basic building blocks of a package, defining a module or a test suite.
-        // Targets can depend on other targets in this package and products from dependencies.
         .target(
-            name: "OpenGLAD"
-        ),
-        .testTarget(
-            name: "OpenGLADTests",
-            dependencies: ["OpenGLAD"]
-        ),
+            name: "OpenGLAD",
+            publicHeadersPath: "include"
+        )
     ],
-    swiftLanguageModes: [.v6]
+    swiftLanguageModes: [.v6],
+    cLanguageStandard: .c17
 )
