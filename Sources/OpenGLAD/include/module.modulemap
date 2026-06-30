@@ -1,4 +1,4 @@
 module OpenGLAD {
-    header "gl.h"
+    header "glad/gl.h"
     export *
 }
