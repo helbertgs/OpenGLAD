@@ -59,7 +59,7 @@ Open an issue and include:
 
 ## Security
 
-For security-related issues, please follow the process described in [SECURITY.md](https://github.com/helbertgs/OpenGLAD/SECURITY.md).
+For security-related issues, please follow the process described in [SECURITY.md](https://github.com/helbertgs/OpenGLAD/tree/main?tab=security-ov-file).
 
 ## Code of Conduct
-This project follows the [Contributor Covenant](https://github.com/helbertgs/OpenGLAD/CODE_OF_CONDUCT.md). Please be respectful and constructive.
+This project follows the [Contributor Covenant](https://github.com/helbertgs/OpenGLAD/tree/main?tab=coc-ov-file). Please be respectful and constructive.

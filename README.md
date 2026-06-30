@@ -113,4 +113,4 @@ OpenGLAD
 ## License
 
 This package is licensed under the [MIT License](LICENSE).
-The bundled [GLAD 2](https://github.com/dav1dde/glad) sources are generated code from [GLAD 2](https://gen.glad.sh/#generator=c&api=gl%3D3.3&profile=gl%3Dcore%2Cgles1%3Dcommon&extensions=GL_ARB_debug_output%2CGL_EXT_texture_compression_s3tc%2CGL_EXT_texture_filter_anisotropic%2CGL_KHR_debug&options=LOADER) and follow the licensing terms defined by the generator configuration.
+The bundled [GLAD](https://github.com/dav1dde/glad) sources are generated code from [GLAD 2](https://gen.glad.sh/#generator=c&api=gl%3D3.3&profile=gl%3Dcore%2Cgles1%3Dcommon&extensions=GL_ARB_debug_output%2CGL_EXT_texture_compression_s3tc%2CGL_EXT_texture_filter_anisotropic%2CGL_KHR_debug&options=LOADER) and follow the licensing terms defined by the generator configuration.
